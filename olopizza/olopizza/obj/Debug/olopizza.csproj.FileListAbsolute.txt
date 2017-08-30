@@ -1,0 +1,8 @@
+c:\users\dale\documents\visual studio 2015\Projects\olopizza\olopizza\bin\Debug\olopizza.exe.config
+c:\users\dale\documents\visual studio 2015\Projects\olopizza\olopizza\bin\Debug\olopizza.exe
+c:\users\dale\documents\visual studio 2015\Projects\olopizza\olopizza\bin\Debug\olopizza.pdb
+c:\users\dale\documents\visual studio 2015\Projects\olopizza\olopizza\bin\Debug\Newtonsoft.Json.dll
+c:\users\dale\documents\visual studio 2015\Projects\olopizza\olopizza\bin\Debug\Newtonsoft.Json.xml
+c:\users\dale\documents\visual studio 2015\Projects\olopizza\olopizza\obj\Debug\olopizza.exe
+c:\users\dale\documents\visual studio 2015\Projects\olopizza\olopizza\obj\Debug\olopizza.pdb
+c:\users\dale\documents\visual studio 2015\Projects\olopizza\olopizza\obj\Debug\olopizza.csprojResolveAssemblyReference.cache
